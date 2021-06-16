@@ -1,0 +1,27 @@
+body {
+    text-align:center;
+    background-color:linear-gradient(#f2cf5a 0%, #f5e218 100%);
+}
+h1 {
+    font-weight:bold;
+    font-size:50px;
+    font-family:fantasy;
+    color:#161dde;
+}
+.line {
+    width:100px;
+    height:auto;
+    color:#13e310;
+    margin:auto;
+}
+img {
+    height:650px;
+    width:650px;
+}
+img:hover {
+    cursor:pointer;
+    transform:scale(0.9);
+}
+html {
+    scroll-behavior:smooth;
+}
